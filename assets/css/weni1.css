@@ -1,0 +1,83 @@
+.cycle-slideshow img{
+	border-radius: 5px !important;
+}
+.cycle-slideshow{
+
+	box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.2);
+	-moz-box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.2);
+	max-width: 900px;
+	border-radius: 5px !important;
+	z-index: 1;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+/*.wrapper-slider{	
+	background-color: rgba(252,245,0, .15) !important;
+}*/
+.wrapper-header{	
+	background-color: rgba(252,245,0, .05) !important;
+}
+.kegiatan-root{	
+	padding-top: 25px;
+	background-color: rgba(16,69,37, .1) !important;
+	padding-bottom: 25px;
+}
+.x-navigation.x-navigation-horizontal{
+	z-index: 999;
+}
+.page-content-header .logo{
+	background: transparent !important;
+	width: 250px;
+}
+.x-navigation.x-navigation-horizontal,  li.active > a, .x-navigation li.active > ul li a:hover{
+	background-color: rgba(16,69,37, 1) !important;
+}
+.x-navigation.x-navigation-horizontal li a:hover, .x-navigation.x-navigation-horizontal li a:after{
+	background-color: rgba(14,45,25, 1) !important;
+}
+.x-navigation.x-navigation-horizontal > li.active > a, .x-navigation li.active > ul{
+	background-color: rgba(14,45,25, 1) !important;
+}
+.footer{
+	background-color: #0a150e !important;
+	padding-top: 35px;
+	height: auto !important;
+	box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.6);
+	-webkit-box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.6);
+	-moz-box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.6);
+	z-index: 999;
+}
+hr{
+	opacity: .2;
+}
+div.weight{
+
+	color: rgba(255,255,255,.6) !important;
+}
+div.weight ul{
+	list-style: none;
+}
+div.weight ul li a{
+	color: rgba(255,255,255,.6);
+	font-weight: 600 !important;
+}
+div.weight ul li a:hover{
+	text-decoration: none;
+	color: rgba(255,255,255,1);
+	font-weight: 700 !important;
+}
+div.weight strong{
+	font-size: 14px;
+	color: #43895f;
+}
+.panel.panel-default{
+	border-top: 3px solid #43895f !important;
+	/*border-left: 3px solid #43895f !important;*/
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+}
+.daftar-kegiatan{
+	padding-left: 15px;
+	margin-bottom: 20px;
+}
